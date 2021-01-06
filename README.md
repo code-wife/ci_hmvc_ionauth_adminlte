@@ -10,6 +10,5 @@
 - Set Database Configration in Application/config/database.php
 
 ## Admin Panel Login Credentials
--admin@admin.com
--password
-
+-Email: admin@admin.com
+-Password: password
