@@ -1,4 +1,4 @@
-# PHP Codeigniter HMVC with grocery crud, ion AUTH Admin Panel | AdminLTE Template
+# PHP Codeigniter HMVC with grocery crud, Ion Auth Admin Panel | AdminLTE Template
 
 ## Requirements
 - Minimum PHP 5.4 & MySQL.
